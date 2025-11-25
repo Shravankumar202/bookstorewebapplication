@@ -1,9 +1,13 @@
 OnlineBookStore
 A Java Web Developement Project
+
 Youtube VIDEO for step by step Local Setup Guide : https://youtu.be/mLFPodZO8Iw
+
 Youtube VIDEO for local setup of tender management project: https://www.youtube.com/watch?v=7CE3aY4e644
+
 User Login Credentials: (shravan/shravan)
 Admin Login Credentials: (Admin/Admin)
+
 About
 A user-friendly Online Bookstore project in which users can log in or register, view the available books, select books along with their quantity, and buy them. Users can also get payment receipts after successful payment. The project can also be used by the administrator, who can add new books, remove books, increase and decrease the quantity of books, change the price of the books as well as maintain the selling history of books.
 
